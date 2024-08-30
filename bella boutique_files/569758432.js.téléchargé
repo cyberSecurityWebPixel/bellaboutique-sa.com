@@ -1,0 +1,3 @@
+const link=document.querySelector('footer .container p > a')
+link.innerText='سله بلس'
+link.href='https://sallaplus.com/'
